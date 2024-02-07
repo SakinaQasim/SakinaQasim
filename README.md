@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sakina Qasim</h1>
 <h3 align="center">Passionate software engineer from Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="https://images.static-collegedunia.com/public/image//f57c4d1979de06e49b1dd15d02ecd231.gif"
+<img align="right" alt="coding" width="400" src="https://images.static-collegedunia.com/public/image//f57c4d1979de06e49b1dd15d02ecd231.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakinaqasim&label=Profile%20views&color=0e75b6&style=flat" alt="sakinaqasim" /> </p>
 
-- 🔭 I’m currently learning **ASP.NET,Webforms**
+- 🔭 I’m currently learning **ASP.NET, Webforms**
 
 - 📫 How to reach me **sakinaqasim99@gmail.com**
 
